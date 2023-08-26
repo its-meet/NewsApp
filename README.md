@@ -1,6 +1,6 @@
 # NewsApp
 
-![Website Screenshot](https://i.ibb.co/bFXW08z/screencapture-localhost-3000-general-2023-08-27-01-08-27.png) OR (https://ibb.co/42pmq5P)>
+![Website Screenshot](https://i.ibb.co/bFXW08z/screencapture-localhost-3000-general-2023-08-27-01-08-27.png) OR (https://ibb.co/42pmq5P)
 
 
 ## Table of Contents
